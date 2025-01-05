@@ -1,0 +1,4 @@
+baseURL: https://mw-jkr.github.io/blog/
+languageCode: en-us
+title: Ria
+theme: ["hugo-PaperMod"]
