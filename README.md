@@ -1,1 +1,3 @@
-hello world
+# Ria's Blog
+
+Powered by Hugo & PaperMod
