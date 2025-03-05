@@ -4,9 +4,10 @@ title: Ria
 theme: ["hugo-PaperMod"]
 paginate: 5
 params:
+  description: "Archive เรื่อยเปื่อย"
   homeInfoParams:
     Title: "^._.^"
-    Content: "⚠️คำเตือน⚠️ Blog นี้ส่งมอบคอนเทนต์เรื่อยเปื่อย และคอนเทนต์แปลมั่วแบบไม่รับประกันความถูกต้องใด ๆ สามารถรับชมได้ทุกเพศทุกวัย, non-profit"
+    Content: "⚠️คำเตือน⚠️ Blog นี้ส่งมอบอะไรเรื่อยเปื่อย และการแปลมั่ว ๆ แบบไม่รับประกันความถูกต้อง สามารถรับชมได้ทุกเพศทุกวัย, non-profit"
   socialIcons:
     - name: "Twitter"
       url: "https://twitter.com/riaxiii"
