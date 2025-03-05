@@ -2,3 +2,23 @@ baseURL: https://riaxiii.github.io/blog/
 languageCode: en-us
 title: Ria
 theme: ["hugo-PaperMod"]
+paginate: 5
+params:
+  homeInfoParams:
+    Title: "^._.^"
+    Content: "⚠️คำเตือน⚠️ Blog นี้ส่งมอบคอนเทนต์เรื่อยเปื่อย และคอนเทนต์แปลมั่วแบบไม่รับประกันความถูกต้องใด ๆ สามารถรับชมได้ทุกเพศทุกวัย, non-profit"
+  socialIcons:
+    - name: "Twitter"
+      url: "https://twitter.com/riaxiii"
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags
+          weight: 10
