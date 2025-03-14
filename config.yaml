@@ -2,7 +2,8 @@ baseURL: https://riaxiii.github.io/blog/
 languageCode: en-us
 title: Ria
 theme: ["hugo-PaperMod"]
-paginate: 5
+pagination:
+  pagerSize: 5
 params:
   description: "Archive เรื่อยเปื่อย"
   homeInfoParams:
