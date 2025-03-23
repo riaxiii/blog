@@ -5,13 +5,10 @@ theme: ["hugo-PaperMod"]
 pagination:
   pagerSize: 5
 params:
-  description: "Archive เรื่อยเปื่อย"
+  description: "Nonbiri"
   homeInfoParams:
     Title: "^._.^"
-    Content: "⚠️คำเตือน⚠️ Blog นี้ส่งมอบอะไรเรื่อยเปื่อย และการแปลมั่ว ๆ แบบไม่รับประกันความถูกต้อง สามารถรับชมได้ทุกเพศทุกวัย, non-profit"
-  socialIcons:
-    - name: "Twitter"
-      url: "https://twitter.com/riaxiii"
+    Content: "⚠️caution: casual blogging, translated content with 0% accuracy, non-profit⚠️"
 languages:
   en:
     languageName: "English"
