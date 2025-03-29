@@ -5,9 +5,6 @@ title: '#DayDay. #AnimeJapan #MV ！'
 summary: "แปลบล็อกเทเรสะ 2025.03.24 21:19"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
-cover:
-  image: images/teresa-blog-20250324-1.png
-  hiddenInList: true
 ---
 
 \
@@ -16,7 +13,7 @@ cover:
 โนกิซากะ46 รุ่นที่5 อิเคดะ เทเรสะ (อิ เคะ ดะ เทะ เระ สะ) ค่ะ\
 \
 \
-ซิงเกิ้ลที่ 38 "Navel Orange"\
+ซิงเกิ้ลที่ 38 "navel orange"\
 วันนี้ก็ได้แสดงเป็นครั้งแรกแล้ว ที่ DayDay ค่ะ\
 ต้องขอขอบคุณทุกคนที่ได้ดู ได้รับชมมาก ๆ เลยนะคะ !\
 \
@@ -125,7 +122,3 @@ https://youtu.be/06E14_7t710?t=250\
 #บล็อกเทเระ #280\
 \
 Source: https://www.nogizaka46.com/s/n46/diary/detail/103296\
-\
-Note
-
-
