@@ -113,8 +113,8 @@ tags: ["nogizaka46", "ikeda-teresa", "interview"]
 
 \
 \
-**Source**: https://mdpr.jp/interview/detail/4529426
+Source: https://mdpr.jp/interview/detail/4529426
 
-**Note**\
+Note\
 [1] เกได (geidai) เป็นชื่อย่อของมหาลัยวิทยาลัยศิลป์โตเกียว (tokyo geijutsu daigaku)\
 [2] มิวส์ (muse) ตามตำนานกรีกแล้วหมายถึง เทพธิดาแห่งแรงบันดาลใจในการสร้างสรรค์ศิลปะ วรรณกรรม และวิทยาศาสตร์ หรือในอีกนัยหนึ่งก็สามารถหมายถึงบุคคลที่คอยสร้างแรงบันดาลใจก็ได้เหมือนกัน
