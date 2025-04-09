@@ -1,7 +1,7 @@
 ---
-date: '2025-03-13'
+date: "2025-03-13"
 draft: false
-title: 'นั่งร้องไห้อยู่กับ Mew ตรงมุมห้อง'
+title: "นั่งร้องไห้อยู่กับ Mew ตรงมุมห้อง"
 summary: "แปลบล็อกเทเรสะ 2025.03.13 20:58"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]

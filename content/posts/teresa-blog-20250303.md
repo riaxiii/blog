@@ -1,7 +1,7 @@
 ---
-date: '2025-03-03'
+date: "2025-03-03"
 draft: false
-title: 'เจิดจรัส'
+title: "เจิดจรัส"
 summary: "แปลบล็อกเทเรสะ 2025.03.03 00:45"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]

@@ -1,7 +1,7 @@
 ---
-date: '2025-03-03' 
+date: "2025-03-03" 
 draft: false
-title: 'boku dake no hikari'
+title: "boku dake no hikari"
 summary: "แปลบล็อกซัทสึกิ 2025.03.03 19:00"
 author: ["Sugawara Satsuki"]
 tags: ["nogizaka46", "sugawara-satsuki", "blog"]

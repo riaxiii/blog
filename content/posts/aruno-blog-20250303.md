@@ -1,7 +1,7 @@
 ---
-date: '2025-03-02'
+date: "2025-03-02"
 draft: false
-title: 'ซิงเกิ้ลลำดับที่ 38'
+title: "ซิงเกิ้ลลำดับที่ 38"
 summary: "แปลบล็อกอารุโนะ 2025.03.03 00:45"
 author: ["Nakanishi Aruno"]
 tags: ["nogizaka46", "nakanishi-aruno", "blog"]

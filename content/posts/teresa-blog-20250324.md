@@ -1,7 +1,7 @@
 ---
-date: '2025-03-24'
+date: "2025-03-24"
 draft: false
-title: '#DayDay. #AnimeJapan #MV ！'
+title: "#DayDay. #AnimeJapan #MV ！"
 summary: "แปลบล็อกเทเรสะ 2025.03.24 21:19"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]

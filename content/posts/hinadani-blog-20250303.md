@@ -1,7 +1,7 @@
 ---
-date: '2025-03-02'
+date: "2025-03-02"
 draft: false
-title: 'ความคาดหวัง ＃โอคาโมโตะฮินะ ＃hinadaniblog'
+title: "ความคาดหวัง ＃โอคาโมโตะฮินะ ＃hinadaniblog"
 summary: "แปลบล็อกฮินะ 2025.03.03 00:44"
 author: ["Okamoto Hina"]
 tags: ["nogizaka46", "okamoto-hina", "blog"]

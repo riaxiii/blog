@@ -1,7 +1,7 @@
 ---
-date: '2025-03-10'
+date: "2025-03-10"
 draft: false
-title: 'ความอบอุ่น　　　　คาวาซากิ ซากุระ'
+title: "ความอบอุ่น　　　　คาวาซากิ ซากุระ"
 summary: "แปลบล็อกซากุตัน 2025.03.10 20:32"
 author: ["Kawasaki Sakura"]
 tags: ["nogizaka46", "kawasaki-sakura", "blog"]

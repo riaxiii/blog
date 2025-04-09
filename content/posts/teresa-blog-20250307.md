@@ -1,7 +1,7 @@
 ---
-date: '2025-03-07'
+date: "2025-03-07"
 draft: false
-title: '#BOMB ฉบับเดือน 4･5 ขอฝากด้วยนะคะ'
+title: "#BOMB ฉบับเดือน 4･5 ขอฝากด้วยนะคะ"
 summary: "แปลบล็อกเทเรสะ 2025.03.07 19:17"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]

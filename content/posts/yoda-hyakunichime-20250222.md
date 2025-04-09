@@ -1,7 +1,7 @@
 ---
-date: '2025-02-22'
+date: "2025-02-22"
 draft: false
-title: 'Message จากโยดะใน mv hyakunichime'
+title: "Message จากโยดะใน mv hyakunichime"
 summary: "ซับนรก Message จากโยดะตอนสุดท้ายของ mv hyakunichime"
 author: ["Yoda Yuuki"]
 tags: ["nogizaka46", "yoda-yuuki"]

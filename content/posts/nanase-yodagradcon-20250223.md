@@ -1,7 +1,7 @@
 ---
-date: '2025-02-23'
+date: "2025-02-23"
 draft: false
-title: 'Message จากนานาเสะถึงโยดะ'
+title: "Message จากนานาเสะถึงโยดะ"
 summary: "ซับนรก Message จากนานาเสะถึงโยดะ ช่วง encore คอนแกรดโยดะ"
 author: ["Nishino Nanase"]
 tags: ["nogizaka46", "nishino-nanase"]

@@ -1,7 +1,7 @@
 ---
-date: '2025-01-05'
+date: "2025-01-05"
 draft: false
-title: 'Hello World'
+title: "Hello World"
 summary: "เปิดบล็อกไปทำไม?"
 author: ["Ria"]
 tags: ["tech"]
