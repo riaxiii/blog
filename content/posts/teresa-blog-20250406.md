@@ -1,7 +1,7 @@
 ---
-date: '2025-04-06'
+date: "2025-04-06"
 draft: false
-title: 'แค่ตอนนี้เท่านั้น'
+title: "แค่ตอนนี้เท่านั้น"
 summary: "แปลบล็อกเทเรสะ 2025.04.06 21:30"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
