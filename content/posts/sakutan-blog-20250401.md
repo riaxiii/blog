@@ -110,4 +110,4 @@ tags: ["nogizaka46", "kawasaki-sakura", "blog"]
 \
 \
 \
-Source: https://www.nogizaka46.com/s/n46/diary/detail/103309
+Source: https://www.nogizaka46.com/s/n46/diary/detail/103319
