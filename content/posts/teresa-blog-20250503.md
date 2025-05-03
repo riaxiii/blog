@@ -1,7 +1,7 @@
 ---
 date: "2025-05-03"
 draft: false
-title: "ไอศกรีมกับครีมกันแดด มันเริ่มขึ้นแล้วสินะคะ #GirlAward2025SS"
+title: "ไอศกรีมกับครีมกันแดด มันเริ่มขึ้นแล้วสินะคะ #GirlsAward2025SS"
 summary: "แปลบล็อกเทเรสะ 2025.05.03 21:16"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
