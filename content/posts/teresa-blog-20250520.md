@@ -1,7 +1,7 @@
 ---
 date: "2025-05-20"
 draft: false
-title: "เคยหัวเราะไม่เก่ง"
+title: "เคยยิ้มไม่เก่ง"
 summary: "แปลบล็อกเทเรสะ 2025.05.20 17:41"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
