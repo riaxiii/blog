@@ -1,7 +1,7 @@
 ---
 date: "2025-06-12"
 draft: false
-title: "เมื่อใจของเราตรงกัน ก็จะไร้เทียมทาน"
+title: "เมื่อหัวใจของเราเป็นหนึ่งเดียวกัน ก็จะไร้เทียมทาน"
 summary: "แปลบล็อกเทเรสะ 2025.06.12 21:26"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
