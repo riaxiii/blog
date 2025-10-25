@@ -1,5 +1,5 @@
 ---
-date: "2025-10-22"
+date: "2025-10-24"
 draft: false
 title: "hahaha..."
 summary: "แปลบล็อกเทเรสะ 2025.10.24 09:30"
