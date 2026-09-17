@@ -1,5 +1,5 @@
 baseURL: https://riaxiii.github.io/blog/
-languageCode: en-us
+locale: en-us
 title: Ria
 theme: ["hugo-PaperMod"]
 pagination:
@@ -11,7 +11,7 @@ params:
     Content: "⚠️caution: casual blogging, translated content with 0% accuracy, non-profit⚠️"
 languages:
   en:
-    languageName: "English"
+    label: "English"
     weight: 1
     menu:
       main:
