@@ -2,7 +2,7 @@
 date: "2025-05-12"
 draft: false
 title: "ด้วยความรู้สึกที่จะไม่ฝืนทำเป็นเข้มแข็ง, 23"
-summary: "แปลบล็อกเทเรสะ 2025.05.11 20:55"
+summary: "แปลบล็อกเทเรสะ 2025.05.12 17:49"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
 ---

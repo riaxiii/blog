@@ -21,3 +21,8 @@ languages:
         - name: Tags
           url: tags
           weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true

@@ -2,7 +2,7 @@
 date: "2025-05-11"
 draft: false
 title: "จนกว่าสัญญาณไฟจะเป็นสีเขียว"
-summary: "แปลบล็อกเทเรสะ 2025.05.03 21:16"
+summary: "แปลบล็อกเทเรสะ 2025.05.11 20:55"
 author: ["Ikeda Teresa"]
 tags: ["nogizaka46", "ikeda-teresa", "blog"]
 ---
